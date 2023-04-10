@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Mobile
+
+  Created by mikxsid on 29.12.2021.
+  
+*/
+"NSLocationWhenInUseUsageDescription" = "Your location will be used to show nearest stores.";
+

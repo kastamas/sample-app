@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Mobile
+
+  Created by mikxsid on 29.12.2021.
+  
+*/
+"NSLocationWhenInUseUsageDescription" = "Ваша геолокация будет использована чтобы показывать ближайшие к вам магазины.";
